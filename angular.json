@@ -30,7 +30,7 @@
               "src/app/web"
             ],
             "styles": [
-              "src/app/web/css/styles.scss"
+              "src/app/theme/web/css/styles.scss"
             ],
             "scripts": [],
             "server": "src/app/bootstrap/main/main.server.ts",
@@ -95,7 +95,7 @@
               "src/app/web"
             ],
             "styles": [
-              "src/app/web/css/styles.scss"
+              "src/app/theme/web/css/styles.scss"
             ],
             "scripts": []
           }
